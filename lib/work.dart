@@ -119,7 +119,7 @@ class _WorkState extends State<Work> {
                         decoration: BoxDecoration(
                           image: const DecorationImage(
                             image: NetworkImage(
-                              'https://raw.githubusercontent.com/Balderrama-Karla-5J/Act1_UIII_ios/refs/heads/main/perfil.jpg',
+                              'https://raw.githubusercontent.com/Balderrama-Karla-5J/UIIIAct2-flutter1149/refs/heads/main/perfil.jpg',
                             ),
                             fit: BoxFit.cover,
                           ),
